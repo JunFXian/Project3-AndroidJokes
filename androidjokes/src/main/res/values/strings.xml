@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">androidJokes</string>
+    <string name="joke_title">My funny joke</string>
+    <string name="fake_joke_content">joke content/n/n/n</string>
+</resources>
